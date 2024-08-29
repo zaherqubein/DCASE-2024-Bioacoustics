@@ -10,7 +10,7 @@ we tested our Model's performance om the Test set provided by the DCASE challeng
 
 ### PANNs Model Architecture
 
-![PANNs Architecture](DCASE-2024-Bioacoustics/PANNs.drawio.png)
+![PANNs Architecture](PANNs.drawio.png)
 
 ### ResNet-CNNs Model Architecture
 
