@@ -14,7 +14,7 @@ we tested our Model's performance om the Test set provided by the DCASE challeng
 
 ### ResNet-CNNs Model Architecture
 
-![ResNet-CNNs Architecture](DCASE-2024-Bioacoustics/CNN-RESNET.png)
+![ResNet-CNNs Architecture](CNN-RESNET.png)
 
 ### Evaluation Performance
 
